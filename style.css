@@ -1,0 +1,24 @@
+body
+{
+	background: #000;
+	height: 100%;
+	left: 0;
+	margin: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+#stub
+{
+	align-items: center;
+	color: #fff;
+	display: flex;
+	font-family: Corbel;
+	font-size: 144px;
+	height: 100%;
+	justify-content: center;
+	left: 0;
+	top: 0;
+	width: 100%;
+}
